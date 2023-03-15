@@ -330,11 +330,14 @@
 }
 
 .logo {
-    width: 100px;
-    height: 100%;
+    width: 68px;
+    /* height: 100%; */
+    /* margin: -27px; */
+    margin-bottom: 20px;
+
 }
 
 .logo-title {
-    position: absolute;
-    margin-top: 29px;
+
+    margin-top: 40px;
 }
